@@ -24,4 +24,4 @@ ___
 ## 📌 Resultado do Projeto:---
 
 <br>
-<p align="center"><img src="https://github.com/devpbleite/calc-app/blob/main/Calculator.png" width="50%"><br><br></p>
+<p align="center"><img src="https://github.com/devpbleite/calc-app/blob/main/Calculator.png" width="80%"><br><br></p>
