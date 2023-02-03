@@ -5,19 +5,19 @@
 
 # Calculadora - #BoraCodar 🖩
 
- -  A aplicação é a solução do design de um QR Code do challenge do [Bora Codar](https://[https://boracodar.dev/]), iniciativa massa criada pela Rocketseat. Os challenges do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+ -  A aplicação é a solução do design de um QR Code do challenge do [Bora Codar](https://[https://boracodar.dev/]), iniciativa massa criada pela Rocketseat. O desafio da semana é essa calculadora e deixo aqui meu resultado.
  <br><br>
 
 ## Sobre o Projeto:
 ___
 
-  - A aplicação foi desenvolvida utilizando React Native para a interface.
+  - A aplicação foi desenvolvida utilizando HTML, CSS e Javascript.
    <br><br>
 
 
 ## Tecnologias Utilizadas:
 ---
--	React Native 
+-	HTML, CSS, Javascript 
 - Git e Github
 
 ## 🔗 Link do Projeto: https://devpbleite.github.io/calc-app/
