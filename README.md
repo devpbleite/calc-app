@@ -3,9 +3,9 @@
 <a href="https://discord.com/channels/@PabloL#3331" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 
-# QR Code 📸
+# Calculadora - #BoraCodar 🖩
 
- -  A aplicação é a solução do design de um QR Code do challenge do [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os challenges do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+ -  A aplicação é a solução do design de um QR Code do challenge do [Bora Codar](https://[https://boracodar.dev/]), iniciativa massa criada pela Rocketseat. Os challenges do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
  <br><br>
 
 ## Sobre o Projeto:
